@@ -1,0 +1,3165 @@
+VarScreen memory log D:\ml algo trade\etf project\data\full-dataset\MEM.LOG  2/25/26  13:54:35
+13:54:35:293  READDATA: line
+Alloc=3235972960:461  98816 bytes  1 allocs  total memory=0 MB
+Alloc=3237017712:461  224 bytes  2 allocs  total memory=0 MB
+Alloc=3237017984:461  224 bytes  3 allocs  total memory=0 MB
+13:54:35:294  READDATA: database
+Alloc=3236071824:461  229376 bytes  4 allocs  total memory=0 MB
+13:54:35:303  READDATA: database
+Realloc=3236071824:461 (3236071824:461)  458752 bytes  total=0 MB
+13:54:35:309  READDATA: database
+Realloc=3236071824:461 (3236071824:461)  688128 bytes  total=0 MB
+Free=3235972960:461  3 allocs  total memory=0 MB
+13:54:38:96  MUT_INF MutInfDlg constructor
+13:55:35:194  MUTINF: mut_inf()
+Alloc=3235972960:461  58392 bytes  4 allocs  total memory=0 MB
+Alloc=3237018256:461  768 bytes  5 allocs  total memory=0 MB
+Alloc=3237019072:461  384 bytes  6 allocs  total memory=0 MB
+Alloc=3236031392:461  576 bytes  7 allocs  total memory=0 MB
+Alloc=3236032016:461  216 bytes  8 allocs  total memory=0 MB
+Alloc=3237085328:461  467136 bytes  9 allocs  total memory=1 MB
+Alloc=3236032272:461  38928 bytes  10 allocs  total memory=1 MB
+Alloc=3236071248:461  384 bytes  11 allocs  total memory=1 MB
+Alloc=3237019504:461  16 bytes  12 allocs  total memory=1 MB
+Alloc=3236760000:461  253032 bytes  13 allocs  total memory=1 MB
+Alloc=3236071680:461  64 bytes  14 allocs  total memory=1 MB
+13:55:35:207  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:210  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:210  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:214  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:214  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:218  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:218  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:221  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:222  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:225  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:225  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:228  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:228  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:230  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:230  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:234  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:234  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:237  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:238  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:241  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:241  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:245  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:245  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:249  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:249  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:253  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:253  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:256  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:256  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:259  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:260  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:263  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:263  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:266  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:266  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:269  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:270  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:273  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:273  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:276  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:277  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:280  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:280  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:283  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:283  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:287  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:287  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:290  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:290  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:293  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:293  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:296  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:296  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:300  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:300  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:302  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:302  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:305  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:305  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:308  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:308  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:311  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:311  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:314  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:315  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:318  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:318  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:321  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:321  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:324  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:324  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:328  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:330  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:333  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:333  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:336  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:336  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:339  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:339  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:342  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:342  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:35:345  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:35:346  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:35:349  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:35:349  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:352  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:353  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:356  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:356  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:360  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:360  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:362  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:363  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:366  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:366  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:370  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:370  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:373  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:373  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:376  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:376  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:380  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:380  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:383  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:384  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:387  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:387  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:389  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:390  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:394  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:394  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:396  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:397  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:400  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:400  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:403  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:403  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:406  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:412  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:414  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:414  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:418  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:418  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:421  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:422  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:425  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:425  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:428  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:428  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:432  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:432  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:435  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:435  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:438  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:439  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:441  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:442  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:445  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:445  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:448  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:448  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:452  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:452  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:455  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:455  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:459  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:459  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:461  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:462  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:464  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:465  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:467  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:468  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:471  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:471  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:474  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:475  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:478  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:478  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:481  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:481  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:484  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:484  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:487  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:487  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:490  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:491  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:493  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:494  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:497  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:497  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:500  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:500  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:503  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:503  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:506  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:507  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:510  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:510  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:513  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:513  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:517  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:517  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:519  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:520  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:523  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:523  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:526  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:526  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:529  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:529  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:532  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:532  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:535  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:535  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:537  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:538  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:541  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:541  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:543  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:543  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:546  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:547  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:549  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:550  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:553  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:553  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:556  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:556  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:559  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:559  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:562  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:562  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:565  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:566  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:569  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:570  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:572  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:572  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:575  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:577  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:579  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:579  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:582  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:583  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:586  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:586  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:589  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:589  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:592  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:592  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:595  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:596  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:598  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:598  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:601  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:602  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:605  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:605  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:608  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:608  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:611  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:611  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:614  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:615  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:617  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:618  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:620  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:620  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:623  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:623  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:626  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:626  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:629  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:630  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:633  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:633  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:636  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:637  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:639  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:640  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:643  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:643  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:647  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:648  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:651  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:651  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:654  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:655  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:658  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:658  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:661  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:662  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:665  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:665  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:668  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:669  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:672  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:672  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:675  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:676  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:679  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:679  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:682  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:684  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:687  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:687  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:690  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:691  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:693  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:694  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:697  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:697  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:700  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:700  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:703  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:704  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:706  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:707  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:709  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:710  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:712  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:712  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:716  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:717  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:720  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:720  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:723  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:723  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:726  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:726  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:729  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:729  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:732  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:732  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:735  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:736  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:739  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:739  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:742  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:743  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:746  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:746  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:749  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:750  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:753  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:753  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:756  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:756  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:759  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:759  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:761  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:762  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:764  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:764  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:767  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:768  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:770  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:771  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:773  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:774  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:777  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:778  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:780  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:781  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:784  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:784  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:786  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:787  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:789  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:790  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:792  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:792  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:795  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:795  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:798  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:799  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:802  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:802  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:805  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:805  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:808  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:808  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:811  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:811  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:815  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:815  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:818  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:819  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:822  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:822  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:825  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:825  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:829  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:829  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:832  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:832  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:835  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:835  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:838  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:838  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:841  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:841  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:844  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:845  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:848  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:848  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:851  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:852  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:854  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:855  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:858  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:858  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:861  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:862  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:865  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:865  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:869  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:869  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:872  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:872  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:875  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:875  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:878  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:878  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:881  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:881  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:884  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:885  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:888  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:888  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:891  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:891  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:894  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:894  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:897  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:897  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:901  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:901  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:905  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:905  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:908  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:908  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:910  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:911  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:914  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:914  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:916  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:917  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:919  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:920  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:922  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:922  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:925  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:925  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:928  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:929  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:932  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:932  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:935  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:935  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:938  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:938  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:941  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:941  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:943  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:944  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:947  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:947  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:950  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:951  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:954  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:954  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:956  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:957  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:959  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:960  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:963  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:964  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:968  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:969  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:972  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:972  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:975  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:975  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:979  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:979  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:982  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:983  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:986  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:986  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:989  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:989  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:992  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:992  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:35:995  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:35:995  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:35:998  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:35:998  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:01  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:01  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:04  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:05  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:08  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:08  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:11  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:12  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:14  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:15  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:19  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:19  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:22  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:22  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:26  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:26  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:28  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:29  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:32  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:32  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:34  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:34  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:37  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:37  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:40  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:40  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:42  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:43  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:46  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:46  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:49  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:49  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:52  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:52  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:54  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:55  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:57  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:58  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:60  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:61  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:64  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:64  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:66  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:66  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:70  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:70  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:73  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:73  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:76  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:77  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:79  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:80  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:82  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:82  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:85  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:85  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:89  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:90  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:93  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:93  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:96  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:96  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:99  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:99  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:102  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:103  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:105  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:105  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:109  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:110  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:112  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:112  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:117  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:117  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:119  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:120  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:123  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:124  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:127  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:128  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:130  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:131  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:134  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:134  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:137  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:137  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:140  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:141  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:144  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:144  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:148  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:148  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:150  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:151  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:153  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:153  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:157  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:157  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:160  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:160  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:164  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:164  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:166  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:166  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:169  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:170  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:172  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:173  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:176  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:177  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:180  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:181  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:184  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:184  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:186  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:187  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:190  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:191  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:194  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:194  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:197  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:197  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:200  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:200  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:203  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:204  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:207  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:207  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:210  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:211  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:214  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:214  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:217  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:217  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:220  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:220  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:223  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:224  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:228  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:228  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:231  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:231  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:234  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:234  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:237  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:237  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:240  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:240  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:244  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:244  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:247  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:247  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:251  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:251  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:254  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:254  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:258  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:258  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:261  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:261  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:264  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:265  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:268  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:268  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:271  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:271  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:274  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:274  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:277  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:278  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:281  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:281  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:284  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:284  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:286  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:286  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:289  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:289  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:292  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:293  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:295  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:296  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:298  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:299  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:302  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:302  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:305  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:305  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:309  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:310  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:313  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:313  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:316  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:316  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:318  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:319  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:321  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:322  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:324  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:324  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:327  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:328  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:331  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:331  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:334  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:334  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:338  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:338  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:341  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:342  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:345  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:345  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:348  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:348  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:351  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:351  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:354  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:354  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:357  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:357  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:360  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:361  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:363  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:364  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:366  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:366  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:369  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:370  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:372  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:373  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:376  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:376  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:378  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:379  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:381  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:382  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:385  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:385  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:389  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:389  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:392  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:392  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:395  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:396  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:399  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:399  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:402  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:402  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:405  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:406  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:409  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:409  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:412  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:412  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:415  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:415  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:418  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:418  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:420  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:421  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:424  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:424  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:427  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:427  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:430  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:430  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:433  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:433  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:436  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:437  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:440  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:440  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:443  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:443  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:445  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:446  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:449  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:449  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:452  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:453  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:455  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:456  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:460  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:460  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:463  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:463  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:466  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:467  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:470  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:471  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:475  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:475  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:480  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:480  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:484  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:484  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:487  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:487  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:490  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:490  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:492  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:493  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:496  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:496  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:499  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:499  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:502  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:502  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:505  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:506  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:509  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:509  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:512  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:512  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:515  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:515  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:517  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:518  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:520  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:520  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:524  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:525  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:527  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:528  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:530  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:531  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:533  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:533  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:536  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:537  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:539  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:540  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:543  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:544  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:547  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:547  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:550  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:550  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:553  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:553  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:557  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:558  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:561  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:561  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:564  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:565  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:567  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:568  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:571  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:572  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:575  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:576  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:579  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:579  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:581  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:582  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:584  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:585  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:587  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:588  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:591  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:592  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:595  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:595  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:598  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:598  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:601  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:601  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:604  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:605  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:607  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:608  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:610  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:611  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:613  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:613  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:616  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:616  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:619  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:619  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:621  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:622  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:625  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:625  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:628  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:629  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:631  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:632  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:635  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:636  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:639  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:639  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:642  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:642  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:644  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:645  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:648  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:649  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:651  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:651  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:654  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:655  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:658  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:659  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:662  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:663  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:666  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:666  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:669  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:669  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:671  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:672  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:675  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:676  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:678  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:678  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:681  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:681  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:684  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:685  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:688  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:689  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:691  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:691  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:694  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:694  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:697  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:697  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:700  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:700  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:703  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:703  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:705  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:706  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:709  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:709  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:712  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:712  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:715  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:715  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:718  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:719  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29208 bytes  15 allocs  total memory=1 MB
+Alloc=3237048816:461  9736 bytes  16 allocs  total memory=1 MB
+13:55:36:722  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048816:461  14 allocs  total memory=1 MB
+13:55:36:722  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29184 bytes  15 allocs  total memory=1 MB
+Alloc=3237048800:461  9728 bytes  16 allocs  total memory=1 MB
+13:55:36:725  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048800:461  14 allocs  total memory=1 MB
+13:55:36:725  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:728  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:729  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:732  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:732  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:734  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:734  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:737  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:738  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:741  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:741  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:744  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:745  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:748  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:748  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:751  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:752  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:755  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:755  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:758  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:758  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:761  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:761  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:764  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:764  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:767  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:767  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:770  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:771  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:773  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:773  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:776  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:776  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:779  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:780  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:782  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:783  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:787  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:787  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:790  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:790  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:793  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:794  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:797  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:797  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:800  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:800  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:802  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:804  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:806  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:807  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:809  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:810  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:813  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:813  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:815  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:816  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:819  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:819  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:822  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:822  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:825  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:825  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:828  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:828  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:831  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:831  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:834  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:835  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:838  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:838  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:841  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:841  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:844  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:844  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:847  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:848  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:850  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:851  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:854  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:855  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29232 bytes  15 allocs  total memory=1 MB
+Alloc=3237048848:461  9744 bytes  16 allocs  total memory=1 MB
+13:55:36:858  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048848:461  14 allocs  total memory=1 MB
+13:55:36:858  MutualInformationAdaptive constructor
+Alloc=3237019568:461  29160 bytes  15 allocs  total memory=1 MB
+Alloc=3237048768:461  9720 bytes  16 allocs  total memory=1 MB
+13:55:36:861  MutualInformationAdaptive destructor
+Free=3237019568:461  15 allocs  total memory=1 MB
+Free=3237048768:461  14 allocs  total memory=1 MB
+13:55:36:861  MutualInformationAdaptive constructor
+Alloc=3237552512:461  58392 bytes  15 allocs  total memory=1 MB
+Alloc=3237019568:461  19464 bytes  16 allocs  total memory=1 MB
+13:55:36:862  MutualInformationAdaptive constructor
+Alloc=3237610944:461  58392 bytes  17 allocs  total memory=1 MB
+Alloc=3237039072:461  19464 bytes  18 allocs  total memory=1 MB
+13:55:36:862  MutualInformationAdaptive constructor
+Alloc=3237669376:461  58392 bytes  19 allocs  total memory=1 MB
+Alloc=3237727808:461  19464 bytes  20 allocs  total memory=1 MB
+13:55:36:862  MutualInformationAdaptive constructor
+Alloc=3237747312:461  58392 bytes  21 allocs  total memory=1 MB
+Alloc=3237805744:461  19464 bytes  22 allocs  total memory=1 MB
+13:55:36:863  MutualInformationAdaptive constructor
+Alloc=3237825248:461  58392 bytes  23 allocs  total memory=1 MB
+Alloc=3237883680:461  19464 bytes  24 allocs  total memory=1 MB
+13:55:36:863  MutualInformationAdaptive constructor
+Alloc=3237903184:461  58392 bytes  25 allocs  total memory=1 MB
+Alloc=3237961616:461  19464 bytes  26 allocs  total memory=1 MB
+13:55:36:863  MutualInformationAdaptive constructor
+Alloc=3237981120:461  58392 bytes  27 allocs  total memory=1 MB
+Alloc=3238039552:461  19464 bytes  28 allocs  total memory=1 MB
+13:55:36:863  MutualInformationAdaptive constructor
+Alloc=3238133904:461  58392 bytes  29 allocs  total memory=2 MB
+Alloc=3238059056:461  19464 bytes  30 allocs  total memory=2 MB
+13:55:36:864  MutualInformationAdaptive constructor
+Alloc=3238192336:461  58392 bytes  31 allocs  total memory=2 MB
+Alloc=3238078560:461  19464 bytes  32 allocs  total memory=2 MB
+13:55:36:864  MutualInformationAdaptive constructor
+Alloc=3238250768:461  58392 bytes  33 allocs  total memory=2 MB
+Alloc=3238309200:461  19464 bytes  34 allocs  total memory=2 MB
+13:55:36:864  MutualInformationAdaptive constructor
+Alloc=3238328704:461  58392 bytes  35 allocs  total memory=2 MB
+Alloc=3238387136:461  19464 bytes  36 allocs  total memory=2 MB
+13:55:36:864  MutualInformationAdaptive constructor
+Alloc=3238406640:461  58392 bytes  37 allocs  total memory=2 MB
+Alloc=3238465072:461  19464 bytes  38 allocs  total memory=2 MB
+13:55:36:865  MutualInformationAdaptive constructor
+Alloc=3238484576:461  58392 bytes  39 allocs  total memory=2 MB
+Alloc=3238543008:461  19464 bytes  40 allocs  total memory=2 MB
+13:55:36:865  MutualInformationAdaptive constructor
+Alloc=3238562512:461  58392 bytes  41 allocs  total memory=2 MB
+Alloc=3238620944:461  19464 bytes  42 allocs  total memory=2 MB
+13:55:36:865  MutualInformationAdaptive constructor
+Alloc=3238640448:461  58392 bytes  43 allocs  total memory=2 MB
+Alloc=3238698880:461  19464 bytes  44 allocs  total memory=2 MB
+13:55:36:865  MutualInformationAdaptive constructor
+Alloc=3238718384:461  58392 bytes  45 allocs  total memory=2 MB
+Alloc=3238776816:461  19464 bytes  46 allocs  total memory=2 MB
+13:55:36:877  MutualInformationAdaptive destructor
+Free=3237552512:461  45 allocs  total memory=2 MB
+Free=3237019568:461  44 allocs  total memory=2 MB
+13:55:36:877  MutualInformationAdaptive destructor
+Free=3237610944:461  43 allocs  total memory=2 MB
+Free=3237039072:461  42 allocs  total memory=2 MB
+13:55:36:877  MutualInformationAdaptive destructor
+Free=3237669376:461  41 allocs  total memory=2 MB
+Free=3237727808:461  40 allocs  total memory=2 MB
+13:55:36:878  MutualInformationAdaptive destructor
+Free=3237747312:461  39 allocs  total memory=2 MB
+Free=3237805744:461  38 allocs  total memory=2 MB
+13:55:36:878  MutualInformationAdaptive destructor
+Free=3237825248:461  37 allocs  total memory=2 MB
+Free=3237883680:461  36 allocs  total memory=2 MB
+13:55:36:878  MutualInformationAdaptive destructor
+Free=3237903184:461  35 allocs  total memory=2 MB
+Free=3237961616:461  34 allocs  total memory=2 MB
+13:55:36:878  MutualInformationAdaptive destructor
+Free=3237981120:461  33 allocs  total memory=2 MB
+Free=3238039552:461  32 allocs  total memory=2 MB
+13:55:36:878  MutualInformationAdaptive destructor
+Free=3238133904:461  31 allocs  total memory=2 MB
+Free=3238059056:461  30 allocs  total memory=2 MB
+13:55:36:879  MutualInformationAdaptive destructor
+Free=3238192336:461  29 allocs  total memory=1 MB
+Free=3238078560:461  28 allocs  total memory=1 MB
+13:55:36:879  MutualInformationAdaptive destructor
+Free=3238250768:461  27 allocs  total memory=1 MB
+Free=3238309200:461  26 allocs  total memory=1 MB
+13:55:36:879  MutualInformationAdaptive destructor
+Free=3238328704:461  25 allocs  total memory=1 MB
+Free=3238387136:461  24 allocs  total memory=1 MB
+13:55:36:879  MutualInformationAdaptive destructor
+Free=3238406640:461  23 allocs  total memory=1 MB
+Free=3238465072:461  22 allocs  total memory=1 MB
+13:55:36:879  MutualInformationAdaptive destructor
+Free=3238484576:461  21 allocs  total memory=1 MB
+Free=3238543008:461  20 allocs  total memory=1 MB
+13:55:36:880  MutualInformationAdaptive destructor
+Free=3238562512:461  19 allocs  total memory=1 MB
+Free=3238620944:461  18 allocs  total memory=1 MB
+13:55:36:880  MutualInformationAdaptive destructor
+Free=3238640448:461  17 allocs  total memory=1 MB
+Free=3238698880:461  16 allocs  total memory=1 MB
+13:55:36:880  MutualInformationAdaptive destructor
+Free=3238718384:461  15 allocs  total memory=1 MB
+Free=3238776816:461  14 allocs  total memory=1 MB
+Free=3235972960:461  13 allocs  total memory=1 MB
+Free=3237018256:461  12 allocs  total memory=1 MB
+Free=3237019072:461  11 allocs  total memory=1 MB
+Free=3236071248:461  10 allocs  total memory=1 MB
+Free=3237019504:461  9 allocs  total memory=1 MB
+Free=3236760000:461  8 allocs  total memory=1 MB
+Free=3236071680:461  7 allocs  total memory=1 MB
+Free=3236031392:461  6 allocs  total memory=1 MB
+Free=3236032016:461  5 allocs  total memory=1 MB
+Free=3237085328:461  4 allocs  total memory=0 MB
+Free=3236032272:461  3 allocs  total memory=0 MB
+13:55:37:738  MUT_INF MutInfDlg destructor
+13:56:24:143  WM_CLOSE
+13:56:24:143  WM_CLOSE passed
+13:56:24:144  cleanup() starting
+Free=3236071824:461  2 allocs  total memory=0 MB
+Free=3237017712:461  1 allocs  total memory=0 MB
+Free=3237017984:461  0 allocs  total memory=0 MB
+13:56:24:144  cleanup() ending
+Max memory use=2 MB  Dangling allocs=0

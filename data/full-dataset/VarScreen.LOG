@@ -1,0 +1,108 @@
+VarScreen 3.1a (D:\ml algo trade\etf project\data\full-dataset\VarScreen.LOG)  2/25/26  13:54:35
+
+
+Hardware specs for 1 CUDA device(s)
+
+Device 1 name = NVIDIA GeForce RTX 3060 Ti  Capability 8.6
+  CUDA Driver Version = 13.0
+  Clock rate = 1.74 GHz
+  Global memory = 8589279232 bytes (8191 MB)
+  Multiprocessors = 38
+  Cores per multiprocessor = 192
+  Constant memory = 65536 bytes
+  Shared memory per block = 49152 bytes
+  Registers per block = 65536
+  Warp size = 32
+  Max threads per multiprocessor = 1536
+  Max threads per block = 1024
+  Max size of each dimension = 1024 1024 64
+  Max size of grid = 2147483647 65535 65535
+  Max memory pitch = 2147483647 bytes
+  Texture alignment = 512 bytes
+  Concurrent copy and execution - Yes
+  Run time limit on kernels - Yes
+  Integrated GPU sharing Host Memory - No
+  Support host page-locked memory mapping - Yes
+  Compute mode = Default (multiple host threads can use ::cudaSetDevice() with device simultaneously)
+
+CUDA is ready
+
+
+Found 27 variables in input file D:\ml algo trade\etf project\data\full-dataset\full-dataset-nonnull.csv
+
+2433 cases read
+
+Means and standard deviations...
+
+       Variable       Mean        StdDev
+
+           Date     15.84217      8.74485
+     qqq_rsi_14     56.34669     11.43447
+    qqq_macd_12      1.06944      3.34449
+      qqq_roc_1      0.08120      1.34403
+      qqq_roc_5      0.35190      2.70256
+     qqq_vol_20      0.18481      0.10425
+    qqq_weekday      2.10933      1.38913
+      qqq_month      6.61036      3.36116
+     qqq_obv_20      5.34586     21.17922
+    dix_macd_12      0.00007      0.00544
+      gex_roc_1    -65.26409   3108.82023
+      gld_roc_1      0.02456      0.90351
+      rrp_roc_5   1293.98383  21006.24385
+      vix_roc_1      0.12817      8.52385
+   gbpusd_roc_1     -0.00899      0.57320
+ gbpusd_STOK_20     49.45151     31.19920
+   usdjpy_roc_1      0.01435      0.56704
+     t2y_diff_1      0.00136      0.05022
+      t2y_acc_1      0.00015      0.07190
+  t10y2y_diff_1     -0.00065      0.03671
+   beta_gld_qqq     -0.01593      0.31517
+beta_gbpusd_qqq      0.07824      0.19860
+beta_usdjpy_qqq      0.11652      0.22337
+ bid_ask_spread      0.01208      0.00780
+  qqq_us2y_corr      0.11733      0.33438
+qqq_ret_label_1      0.13111      0.99137
+      qqq_ret_1      0.00063      0.01320
+       _SEQNUM_   1217.00000    702.34654
+
+
+
+******************************************************************************
+*                                                                            *
+* Computing univariate mutual information (one predictor, one target)        *
+*    24 predictor candidates                                                 *
+*       Predictors and target are continuous                                 *
+*       No Monte-Carlo Permutation Test                                      *
+*                                                                            *
+******************************************************************************
+
+
+------------------------------> Mutual Information with qqq_ret_1 <------------------------------
+
+
+       Variable         MI     P(<=median)
+
+     qqq_vol_20       0.0859       0.0000
+    qqq_macd_12       0.0765       0.0040
+     qqq_rsi_14       0.0659       0.0437
+      qqq_roc_5       0.0416       0.1706
+     qqq_obv_20       0.0358       0.2183
+      gex_roc_1       0.0335       0.2341
+beta_usdjpy_qqq       0.0281       0.2500
+      qqq_roc_1       0.0279       0.2937
+ bid_ask_spread       0.0254       0.4405
+    dix_macd_12       0.0164       0.5238
+beta_gbpusd_qqq       0.0115       0.6627
+   beta_gld_qqq       0.0062       0.7421
+   usdjpy_roc_1       0.0051       0.7143
+      vix_roc_1       0.0039       0.5952
+  qqq_us2y_corr       0.0000       0.6032
+      t2y_acc_1       0.0000       0.6786
+  t10y2y_diff_1       0.0000       0.7222
+      rrp_roc_5       0.0000       0.8016
+    qqq_weekday       0.0000       0.8571
+      gld_roc_1       0.0000       0.9048
+      qqq_month       0.0000       0.8730
+     t2y_diff_1       0.0000       0.8968
+   gbpusd_roc_1       0.0000       0.8730
+ gbpusd_STOK_20       0.0000       0.8690
