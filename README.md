@@ -6,9 +6,9 @@ This repository contains a quantitative research project focused on predicting t
 The core objective was to determine if alpha decay in a predictive model was caused by changes in feature distributions (**Covariate Shift**) or changes in the underlying relationship between features and the target (**Concept Drift**).
 
 ### Key Highlights:
-* **Target:** 1-day forward open-to-open returns ($\frac{Open_{t+2}}{Open_t+1} - 1$).
+* **Target:** 1-day forward open-to-open returns ($\frac{Open_{t+2}}{Open_{t+1}} - 1$).
 * **Feature Set:** Multi-frequency data including Equities (QQQ), Macro indicators (Gold, Treasury Yields, DIX, GEX, Fed Reserve Repo, VIX), Forex (GBP/USD, USD/JPY), Treasury (2 year yield and 10 year - 2 year yield)
-* **Primary Finding:** Model performs better in post-covid market (profit factor > 1) over pre-covid market. Post-COVID market regimes favored mid-term trend indicators over short-term mean-reversion signals.
+* **Primary Finding:** Model performs better in post-covid market (profit factor = 1.02) over pre-covid market. Post-COVID market regimes favored mid-term trend indicators over short-term mean-reversion signals.
 
 ## 🛠️ Technical Implementation
 
