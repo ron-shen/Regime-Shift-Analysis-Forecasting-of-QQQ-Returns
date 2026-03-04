@@ -8,7 +8,8 @@ The core objective was to determine if alpha decay in a predictive model was cau
 ### Key Highlights:
 * **Target:** 1-day forward open-to-open returns ($\frac{Open_{t+2}}{Open_{t+1}} - 1$).
 * **Feature Set:** Multi-frequency data including Equities (QQQ), Macro indicators (Gold, Treasury Yields, DIX, GEX, Fed Reserve Repo, VIX), Forex (GBP/USD, USD/JPY), Treasury (2 year yield and 10 year - 2 year yield)
-* **Primary Finding:** Model performs better in post-covid market (profit factor = 1.02) over pre-covid market. Post-COVID market regimes favored mid-term trend indicators over short-term mean-reversion signals.
+* **Performance:** Model performs better in post-covid market (profit factor = 1.05) over pre-covid market. Post-COVID market regimes favored mid-term trend indicators over short-term mean-reversion signals.
+* **Risk Management:** Developed an Adversarial Filter that successfully reduced Max Drawdown by 5% in the 2023-2024 test regime.
 
 ## 🛠️ Technical Implementation
 
@@ -27,7 +28,10 @@ The study compared several machine learning architectures:
 ### 1. Concept Drift vs. Covariate Shift
 Through a comparative analysis of "Collapsed" vs. "Stable" folds, this project identifies that performance degradation is rarely caused by **Covariate Shift** ($P(X)$ change). Instead, it is driven by **Adversarial Concept Drift** ($P(y|X)$ change).
 
-In collapsed folds, the **Sign Flip Ratio** reached 39%. This indicates a structural regime shift where the model’s learned logic was inverted by the market. Also the average **Adversarial Feature Ratio** reached 57%. This implies that a majority (57%) of the top 15 predictive features experienced a significant weakening or total reversal of their correlation with the target during the test period.
+* **Logic Inversion (Sign Flip Ratio):** In failed folds, the Sign Flip Ratio reached **39%**, indicating a structural shift where the model’s learned logic was actively inverted by the market:
+    $$\text{sgn}(\rho_{\text{train}}) \neq \text{sgn}(\rho_{\text{val}})$$
+
+* **Systemic Decay (Adversarial Feature Ratio):** The average **Adversarial Feature Ratio reached 57%**, implying that 57% of the top 15 predictive features experienced a significant weakening or total reversal of their correlation with the target during the test period.
 
 ### 2. The Adversarial Filter (Kill Switch)
 I implemented an filter to halt trading when adversarial concept drift is detected, functioning as a real-time risk management layer. The filter acts as a drawdown limiter. In the 2023-2024 test regime, it successfully reduced Max Drawdown (MDD) by 5%.
