@@ -118,3 +118,31 @@ def coeff_importance_summary(
     }).sort_values("delta_post_minus_pre", ascending=False)
 
     return imp_df, in_top, top_presence, avg_imp, regime_compare
+
+
+def plot_sensitivity(results_data):
+    df = pd.DataFrame([{
+        't': r['threshold'],
+        'pf_after': r['val_after']['pf'],
+        'mdd_after': r['val_after']['mdd'],
+        'ret_after': r['val_after']['total_return'],
+        'pf_baseline': r['val_before']['pf'],
+        'mdd_baseline': r['val_before']['mdd'],
+        'ret_baseline': r['val_before']['total_return']
+    } for r in results_data])
+
+    fig, axes = plt.subplots(3, 1, figsize=(5, 6), sharex=True)
+    
+    metrics = [('pf_after', 'pf_baseline', 'Profit Factor'), 
+               ('mdd_after', 'mdd_baseline', 'Max Drawdown'), 
+               ('ret_after', 'ret_baseline', 'Total Return')]
+
+    for i, (m_after, m_base, label) in enumerate(metrics):
+        axes[i].plot(df['t'], df[m_base], 'r--', label='Baseline (No Filter)')
+        axes[i].plot(df['t'], df[m_after], 'b-o', label='Filtered')
+        axes[i].set_ylabel(label)
+        axes[i].legend()
+        axes[i].grid(True, alpha=0.3)
+
+    axes[2].set_xlabel('Drift Threshold')
+    plt.tight_layout()

@@ -75,7 +75,6 @@ class SlidingWindowCV:
             t += self.step
 
     def get_n_splits(self, X=None, y=None, groups=None):
-        # Optional; sklearn can work without this.
         n = len(X) if X is not None else 0
         end = n if self.end is None else min(self.end, n)
         t = self.start
