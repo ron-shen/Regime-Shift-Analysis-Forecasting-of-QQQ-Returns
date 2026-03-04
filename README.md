@@ -34,5 +34,5 @@ Through a comparative analysis of "Collapsed" vs. "Stable" folds, this project i
 * **Systemic Decay (Adversarial Feature Ratio):** The average **Adversarial Feature Ratio reached 57%**, implying that 57% of the top 15 predictive features experienced a significant weakening or total reversal of their correlation with the target during the test period.
 
 ### 2. The Adversarial Filter (Kill Switch)
-I implemented an filter to halt trading when adversarial concept drift is detected, functioning as a real-time risk management layer. The filter acts as a drawdown limiter. In the 2023-2024 test regime, it successfully reduced Max Drawdown (MDD) by 5%.
+The filter can halt trading when adversarial concept drift is detected, functioning as a real-time risk management layer. It acts as a drawdown limiter. In the 2023-2024 test regime, it successfully reduced Max Drawdown (MDD) by 5%.
 
