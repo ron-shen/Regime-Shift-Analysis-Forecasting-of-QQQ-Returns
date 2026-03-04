@@ -2,7 +2,7 @@
 
 This repository contains a quantitative research project focused on predicting the **1-day forward open-to-open return of the QQQ ETF**. The project emphasizes the transition of market mechanics in the post-COVID era, specifically diagnosing model decay through the lens of **Concept Drift**.
 
-## 🚀 Project Overview
+## Project Overview
 The core objective was to determine if alpha decay in a predictive model was caused by changes in feature distributions (**Covariate Shift**) or changes in the underlying relationship between features and the target (**Concept Drift**).
 
 ### Key Highlights:
@@ -11,7 +11,7 @@ The core objective was to determine if alpha decay in a predictive model was cau
 * **Performance:** Model performs better in post-covid market (profit factor = 1.05) over pre-covid market. Post-COVID market regimes favored mid-term trend indicators over short-term mean-reversion signals.
 * **Risk Management:** Developed an Adversarial Filter that successfully reduced Max Drawdown by 5% in the 2023-2024 test regime.
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Data Pipeline & Orchestration
 * **Feature Engineering:** Automated generation of technical indicators (ROC, Volatility) and time-series features.
@@ -23,7 +23,7 @@ The study compared several machine learning architectures:
 * **Linear Models:** ElasticNet (EN) for regularized baseline performance.
 * **Ensemble Methods:** Gradient Boosting (GBM), Random Forest (RF), and XGBoost to capture non-linearities.
 
-## 📈 Key Research Findings
+## Key Research Findings
 
 ### 1. Concept Drift vs. Covariate Shift
 Through a comparative analysis of "Collapsed" vs. "Stable" folds, this project identifies that performance degradation is rarely caused by **Covariate Shift** ($P(X)$ change). Instead, it is driven by **Adversarial Concept Drift** ($P(y|X)$ change).
