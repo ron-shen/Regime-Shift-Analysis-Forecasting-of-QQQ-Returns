@@ -29,6 +29,6 @@ Through a comparative analysis of "Collapsed" vs. "Stable" folds, this project i
 
 In collapsed folds, the **Sign Flip Ratio** reached 39%. This indicates a structural regime shift where the model’s learned logic was inverted by the market. Also the average **Adversarial Feature Ratio** reached 57%. This implies that a majority (57%) of the top 15 predictive features experienced a significant weakening or total reversal of their correlation with the target during the test period.
 
-### 3. The Adversarial Filter (Kill Switch)
-I implemented an automated filter to halt trading when adversarial concept drift is detected, functioning as a real-time risk management layer. The filter acts as a drawdown limiter. In the 2023-2024 test regime, it successfully reduced Max Drawdown (MDD) by 5%.
+### 2. The Adversarial Filter (Kill Switch)
+I implemented an filter to halt trading when adversarial concept drift is detected, functioning as a real-time risk management layer. The filter acts as a drawdown limiter. In the 2023-2024 test regime, it successfully reduced Max Drawdown (MDD) by 5%.
 
