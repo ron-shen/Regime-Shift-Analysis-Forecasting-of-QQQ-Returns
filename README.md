@@ -22,9 +22,13 @@ The study compared several machine learning architectures:
 * **Linear Models:** ElasticNet (EN) for regularized baseline performance.
 * **Ensemble Methods:** Gradient Boosting (GBM), Random Forest (RF), and XGBoost to capture non-linearities.
 
-## 📊 Diagnostics: The "Concept Drift" Proof
-The most significant part of this research was the diagnosis of model failure in specific folds (e.g., Fold 5).
+## 📈 Key Research Findings
 
-* **Correlation Instability:** The relationship between `qqq_roc_4` and the target shifted from **-0.0426** (training) to **-0.192** (testing).
-* **Sign Flips:** Identified 4 key features where the relationship with market returns completely reversed direction.
-* **Drift Impact:** The average absolute change in correlation reached **0.1646**, proving that the market regime had fundamentally "re-wired" its logic, leading to degraded model performance.
+### 1. Concept Drift vs. Covariate Shift
+Through a comparative analysis of "Collapsed" vs. "Stable" folds, this project identifies that performance degradation is rarely caused by **Covariate Shift** ($P(X)$ change). Instead, it is driven by **Adversarial Concept Drift** ($P(y|X)$ change).
+
+In collapsed folds, the **Sign Flip Ratio** reached 39%. This indicates a structural regime shift where the model’s learned logic was inverted by the market. Also the average **Adversarial Feature Ratio** reached 57%. This implies that a majority (57%) of the top 15 predictive features experienced a significant weakening or total reversal of their correlation with the target during the test period.
+
+### 3. The Adversarial Filter (Kill Switch)
+I implemented an automated filter to halt trading when adversarial concept drift is detected, functioning as a real-time risk management layer. The filter acts as a drawdown limiter. In the 2023-2024 test regime, it successfully reduced Max Drawdown (MDD) by 5%.
+
