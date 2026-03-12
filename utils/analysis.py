@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 from scipy.stats import ks_2samp
+from statsmodels.stats.multitest import multipletests
 from utils.metrics import perf_stats_from_logrets
 from utils.plotting import print_perf_stats
 from utils.filter import apply_drift_filter
@@ -117,12 +118,13 @@ def analyze_covariate_shift(X, cv_results, folds_info, top_x=15):
         val_slice = X.loc[fold['val'][0] : fold['val'][1], top_features]
         
         # 3. Perform KS-test on each of the top features
-        drifted_features = []
-        for feat in top_features:
-            # ks_2samp returns (statistic, p-value)
-            _, p_val = ks_2samp(train_slice[feat], val_slice[feat])
-            if p_val < 0.05:
-                drifted_features.append(feat)
+        p_vals = [ks_2samp(train_slice[feat], val_slice[feat]).pvalue for feat in top_features]
+
+        # Apply Benjamini-Yekutieli correction for multiple comparisons
+        # fdr_by is valid under arbitrary dependence between tests
+        rejected, _, _, _ = multipletests(p_vals, alpha=0.05, method='fdr_by')
+
+        drifted_features = [feat for feat, sig in zip(top_features, rejected) if sig]
         
         # 4. Record the results
         analysis_data.append({

@@ -1,0 +1,88 @@
+CONCEPT DRIFT DETECTION IN QQQ RETURN PREDICTION MODELS
+Interview Preparation — Strong & Weak Points
+============================================================
+
+STRONG POINTS:
+--------------
+1. Covariate shift vs. concept drift distinction
+   - Used KS test to rule out covariate shift
+   - Logical inversion argument: good folds had MORE covariate shift than bad folds,
+     breaking the assumed causal link
+
+2. Open-to-open target justification
+   - Execution-realistic reasoning: observe close, enter at next day's open
+   - Avoids overnight risk from after-market execution
+
+3. Leakage prevention
+   - Understood exactly how sklearn Pipeline enforces fit-on-train-only
+   - Scaler fit only on training window, applied to test window
+
+4. ElasticNet choice
+   - Connected model choice to data constraints (1000 samples, 40 features, 25:1 ratio)
+   - Tree models overfitting was empirically observed
+
+5. l1_ratio cap at 0.5
+   - Empirically tested pure Lasso (l1_ratio=1): all coefficients went to zero
+   - 5 out of 11 CV folds performed better with range 0-0.5 vs 1.0
+
+6. Honest about limitations
+   - Did not oversell weak out-of-sample results
+   - Acknowledged thin profit factor and small test set
+
+7. Conditional predictability reframe
+   - Good folds (5/11) prove features CAN be predictive in specific regimes
+   - Concept drift explains the regime-dependence of that predictability
+
+
+WEAK POINTS:
+------------
+1. Fold count inconsistency
+   - Correct answer: 11 CV folds + 3 held-out test folds = 14 total
+   - "6 bad folds" refers to the 11 CV folds only
+
+2. KS test understanding
+   - Used it correctly but unclear on the mechanics
+   - Study: how the KS statistic is calculated, what the null hypothesis is,
+     and why p-value < 0.05 means distributions are different
+
+3. No multiple testing correction
+   - Tested 15 features at alpha=0.05 without Bonferroni or Benjamini-Hochberg correction
+   - Expected ~0.75 false positives per fold by chance alone
+
+4. 39% phrasing on resume
+   - Resume says "39% of key predictive features" — implies a feature-level statement
+   - Actually: average of (flipped_features / 15) across bad CV folds
+   - More precise phrasing: "on average, 39% of top features experienced correlation
+     inversions across bad folds"
+
+5. Never considered "no persistent alpha" challenge
+   - If Lasso drives all coefficients to zero, features may not be predictive at all
+   - Reframe: good folds are the counterfactual — features are conditionally predictive
+
+6. Weak out-of-sample results
+   - Only 3 test folds — insufficient statistical power
+   - Drift filter does NOT improve profit factor out-of-sample
+   - Only MDD decreases — primary optimization target did not generalize
+
+7. Profit factor = 1.02
+   - Immediately reframe: "This is a diagnostic project, not a live trading strategy"
+   - Point: identifying WHY models fail (concept drift) is the contribution,
+     not finding a profitable edge
+
+
+KEY NUMBERS TO KNOW COLD:
+--------------------------
+- Total folds: 14 (11 CV + 3 test)
+- Bad folds (in CV): 6 out of 11
+- Features tested: top 15 per fold
+- Average correlation inversion ratio: 39% across bad folds
+- Drift threshold: 0.18 (tuned on validation folds)
+- Rolling correlation window: 21 days
+- Training window: 1,000 days
+- Test window: 100 days
+- Total samples: ~4,000
+- Features: ~40
+- ElasticNet alpha range: 1e-5 to 1
+- ElasticNet l1_ratio range: 0 to 0.5
+- Profit factor (post-COVID): 1.02
+- Correlation shift example: qqq_roc_4 from -0.0426 (train) to -0.192 (test)
