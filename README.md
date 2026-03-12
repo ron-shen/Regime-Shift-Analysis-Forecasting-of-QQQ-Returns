@@ -26,9 +26,9 @@ The study compared several machine learning architectures:
 ## Key Research Findings
 
 ### 1. Concept Drift vs. Covariate Shift
-Through a comparative analysis of "Collapsed" vs. "Stable" folds, this project identifies that performance degradation is rarely caused by **Covariate Shift** ($P(X)$ change). Instead, it is driven by **Adversarial Concept Drift** ($P(y|X)$ change).
+Through a comparative analysis of "Collapsed" vs. "Stable" folds, this project suggests that performance degradation is rarely caused by **Covariate Shift** ($P(X)$ change). Instead, it is driven by **Adversarial Concept Drift** ($P(y|X)$ change).
 
-* **Logic Inversion (Sign Flip Ratio):** In failed folds, the Sign Flip Ratio reached **39%**, indicating a structural shift where the model’s learned logic was actively inverted by the market:
+* **Logic Inversion (Sign Flip Ratio):** In collapsed folds, the Sign Flip Ratio reached **39%**, indicating a structural shift where the model’s learned logic was actively inverted by the market:
     $$\text{sgn}(\rho_{\text{train}}) \neq \text{sgn}(\rho_{\text{val}})$$
 
 * **Systemic Decay (Adversarial Feature Ratio):** The average **Adversarial Feature Ratio reached 57%**, implying that 57% of the top 15 predictive features experienced a significant weakening or total reversal of their correlation with the target during the test period.
